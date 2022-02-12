@@ -6,8 +6,8 @@ Status of Last Deployment:<br>
 
 Copyleft by Alexander Ilves 2022 
 
-brew install npm
+% brew install npm
 
-node app.js
-http://localhost:3000/
-pkill -f app.js
+% node app.js
+% http://localhost:3000/
+% pkill -f app.js
